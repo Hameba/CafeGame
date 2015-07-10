@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CafeGame.iml" filepath="$PROJECT_DIR$/CafeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cafeGame/cafeGame.iml" filepath="$PROJECT_DIR$/cafeGame/cafeGame.iml" />
+    </modules>
+  </component>
+</project>
